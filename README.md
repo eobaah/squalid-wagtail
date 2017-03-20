@@ -14,18 +14,18 @@ Your objectives for the day are to achieve:
 
 ### Plan
 
-- [ ] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
-- [ ] Complete "Introducing JavaScript"
-- [ ] Complete "Storing and Tracking Information with Variables"
-- [ ] Complete "Working With Numbers"
-- [ ] Complete "Making Decisions with Conditional Statements"
-- [ ] Complete "Creating Reusable Code with Functions"
-- [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
+- [X] Sign up for [Treehouse JavaScript Basics][treehouse-js-basics] course
+- [X] Complete "Introducing JavaScript"
+- [X] Complete "Storing and Tracking Information with Variables"
+- [X] Complete "Working With Numbers"
+- [X] Complete "Making Decisions with Conditional Statements"
+- [X] Complete "Creating Reusable Code with Functions"
+- [X] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
 
-- [ ] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
-- [ ] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
+- [X] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
+- [X] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
 - [ ] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
@@ -43,8 +43,8 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x] Link to your solution here (jsbin, gist, or a js file in this repo)
 - [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
  - [ ] Link to your solution here
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
@@ -179,4 +179,3 @@ Today is going to be a tough one. These challenges are tricky, and will need you
 [ninja]:https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Secrets%20of%20the%20JavaScript%20Ninja%20-%20John%20Resig%20and%20Bear%20Bibeault%20-%20December%202012.pdf
 [cheat]:https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Objects-Cheat-Sheet.pdf
 [oojs]:ftp://ftp.micronet-rostov.ru/linux-support/books/programming/JavaScript/[Packt]%20-%20Object-Oriented%20JavaScript%20-%20[Stefanov].pdf
-
